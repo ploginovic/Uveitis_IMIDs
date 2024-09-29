@@ -1,1 +1,1 @@
-HPDM099 Repository
+Repository for autoimmune disease prediciton in Uveitis in UKBB.
