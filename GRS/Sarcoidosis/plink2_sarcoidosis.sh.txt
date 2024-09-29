@@ -1,0 +1,1 @@
+plink2 --bgen /slade/projects/Research_Project-MRC158833/UKBiobank/500K_Genetic_data/imputed_data/ukb_imp_chr6_v3.bgen ref-first --out Sarcoidosis_threeSNP_300524 --sample /slade/projects/Research_Project-MRC158833/UKBiobank/500K_Genetic_data/imputed_data/ukb9072_imp_autosomes.sample --score sarcoidosis_three_SNPs.txt 1 4 6 header cols=+scoresums
